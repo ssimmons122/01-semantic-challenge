@@ -5,13 +5,14 @@ This week's homework focuses on accessibility and refactoring.
 n/a
 
 ## Site
-https://ssimmons122.github.io/01-semantic-challenge/#search-engine-optimization 
+https://ssimmons122.github.io/01-semantic-challenge/
 
 ## Usage
 To make sure all pictures are accessible to majority populations, and the code is better than we found it. 
 
 ## Credits
-Bootcamp classmates.  Shoutout to the studygroup. 
+Bootcamp classmates.
+Xandromus
 
 ## License
 N/a
